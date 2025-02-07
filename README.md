@@ -15,9 +15,13 @@ CONTENTS
 
 - pre-calculated folder: numpy arrays containing the chords and durations extracted from the MAESTRO dataset.
 
-LICENSE
-README
-requirements.txt
+- LICENSE
+
+- README
+  
+- requirements.txt
+
+INSTALLATION:  
 
 1 - Download all the content of this repository into the same folder
 
@@ -27,7 +31,8 @@ requirements.txt
 
 IMPORTANT NOTE: The system generates a midi file with the final score. Additionally, it uses four MIDI ports to communicate in "real time" with any DAW installed in the computer, providing a live reproduction of the piece and the image of the spectra (via OSC). The Graphical_Display.csd file allows the visualization using Cabbage Audio software.
 
-CABBAGE INSTALLATION
+
+CABBAGE INSTALLATION:
 
 1- Download and install CSound 6.15 from: https://github.com/csound/csound/releases/tag/6.15.0
 
