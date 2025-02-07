@@ -7,10 +7,13 @@ MILES service is developed by the Spanish Virtual Observatory in the framework o
 
 CONTENTS
 
-Jupyter notebook INT-Full_System.ipynb: 
-Display.png: 
-Graphical_Display.csd: 
-pre-calculated folder: 
+Jupyter notebook INT-Full_System.ipynb
+
+Display.png: A sample of the spectra.
+
+Graphical_Display.csd: Cabbage audio code to view spectra in real time.
+
+pre-calculated folder: numpy arrays containing the chords and durations extracted from the MAESTRO dataset.
 
 LICENSE
 README
@@ -20,7 +23,7 @@ requirements.txt
 
 2 - Install all the dependencies included in the requirements.txt file
 
-3 - To generating the stellar score follow the steps detailed iin the notebook.
+3 - Follow the steps detailed in the notebook to generate the stellar score.
 
 Note: The system generates a midi file with the final score. Additionally, it uses four MIDI ports to communicate in "real time" with any DAW installed in the computer, providing a live reproduction of the piece and the image of the spectra (via OSC). The Graphical_Display.csd file allows the visualization using Cabbage Audio software.
 
