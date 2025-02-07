@@ -7,13 +7,13 @@ MILES service is developed by the Spanish Virtual Observatory in the framework o
 
 CONTENTS
 
-Jupyter notebook INT-Full_System.ipynb
+- Jupyter notebook INT-Full_System.ipynb
 
-Display.png: A sample of the spectra.
+- Display.png: A sample of the spectra.
 
-Graphical_Display.csd: Cabbage audio code to view spectra in real time.
+- Graphical_Display.csd: Cabbage audio code to view spectra in real time.
 
-pre-calculated folder: numpy arrays containing the chords and durations extracted from the MAESTRO dataset.
+- pre-calculated folder: numpy arrays containing the chords and durations extracted from the MAESTRO dataset.
 
 LICENSE
 README
