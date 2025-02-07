@@ -25,7 +25,7 @@ requirements.txt
 
 3 - Follow the steps detailed in the notebook to generate the stellar score.
 
-Note: The system generates a midi file with the final score. Additionally, it uses four MIDI ports to communicate in "real time" with any DAW installed in the computer, providing a live reproduction of the piece and the image of the spectra (via OSC). The Graphical_Display.csd file allows the visualization using Cabbage Audio software.
+IMPORTANT NOTE: The system generates a midi file with the final score. Additionally, it uses four MIDI ports to communicate in "real time" with any DAW installed in the computer, providing a live reproduction of the piece and the image of the spectra (via OSC). The Graphical_Display.csd file allows the visualization using Cabbage Audio software.
 
 CABBAGE INSTALLATION
 
