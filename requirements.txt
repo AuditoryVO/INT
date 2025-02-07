@@ -1,0 +1,12 @@
+astropy==5.2.2
+librosa==0.8.0
+matplotlib==3.7.3
+music21==6.7.1
+numpy==1.22.3
+pygame==2.0.1
+python_osc==1.7.4
+scikit_learn==1.1.2
+scikit_learn==1.1.1
+session_info==1.0.0
+tensorflow==2.9.1
+tqdm==4.64.0
