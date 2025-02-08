@@ -30,7 +30,7 @@ INSTALLATION:
 
 3 - Follow the steps detailed in the notebook to generate the stellar score.
 
-IMPORTANT NOTE: The system generates a midi file with the final score and saves the model ourtput (140.5MB). Additionally, it uses four MIDI ports to communicate in "real time" with any DAW installed in the computer, providing a live reproduction of the piece and the image of the spectra (via OSC). The Graphical_Display.csd file allows the visualization using Cabbage Audio software.
+IMPORTANT NOTE: The system generates a midi file and a MusicXML file (includes the name of the objects as shown in the figure generated with MuseScore 3) of the final score and saves the model ourtput (140.5MB). Additionally, it uses four MIDI ports to communicate in "real time" with any DAW installed in the computer, providing a live reproduction of the piece and the image of the spectra (via OSC). The Graphical_Display.csd file allows the visualization using Cabbage Audio software.
 
 
 CABBAGE INSTALLATION:
