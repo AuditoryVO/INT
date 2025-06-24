@@ -2,7 +2,7 @@
 "Real time" with pre-processing astronomical data-driven composition system.
 Generates music scores from the exploration of MILES stellar spectra library.
 
-![INT](https://github.com/user-attachments/assets/e3e6fe0f-72a4-4204-abdf-c194d1ff32fe)
+![INT](https://github.com/user-attachments/assets/a18fa42b-8709-44b0-8415-818e182f598a)
 
 MILES service is developed by the Spanish Virtual Observatory in the framework of the IAU Comission G5 Working Group : Spectral Stellar Libraries.
 
